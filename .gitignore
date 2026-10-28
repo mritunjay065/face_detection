@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+*.avi
+*.mp4
+data/audit_clips/
+data/raw/
+yolov8n.pt
+.system_generated/
